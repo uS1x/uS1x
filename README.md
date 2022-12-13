@@ -1,10 +1,3 @@
-
-<style>
-
-  background-color: black;
-  
-</style>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uS1x&style=flat-square" alt="uS1x" /> </p>
 
 <p align="center">
